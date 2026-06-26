@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# MediaPipe model bundles (large binary files, auto-downloaded)
+models/
+
+# Test videos and pipeline output files
+*.MOV
+*.mov
+*.mp4
+*.jpg
+*.jpeg
+*_metrics.json
+*_feedback.json
+*_training_plan.json
+*_training_plan.txt
+
+# macOS
+.DS_Store

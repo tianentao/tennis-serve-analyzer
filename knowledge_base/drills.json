@@ -1,0 +1,107 @@
+[
+  {
+    "id": "wall_sit_trophy_hold",
+    "title": "Wall-Sit Trophy Hold",
+    "focus_metric": "knee_bend",
+    "tags": ["trophy", "leg_drive", "loading", "knee_bend"],
+    "description": "Stand two feet from a wall and lower into a wall-sit until your knees are bent to roughly 140°. While holding that position, raise your racket arm into the trophy shape — elbow up, racket pointing back. Hold 10 seconds, repeat 5 times. Directly builds the leg-loading habit at the trophy position so the upward drive has something to push off."
+  },
+  {
+    "id": "slow_motion_trophy_pause",
+    "title": "Slow-Motion Trophy Pause",
+    "focus_metric": "knee_bend",
+    "tags": ["trophy", "leg_drive", "loading", "knee_bend"],
+    "description": "Shadow-serve at 20% speed, stopping completely at the trophy position for a 3-second count before continuing the swing. Use a mirror or record yourself to confirm your knees are visibly bent (target 140°) before you drive upward. 3 sets of 10 shadow serves. The pause trains the nervous system to load the legs rather than skipping straight to the upward swing."
+  },
+  {
+    "id": "squat_jump_serve_sim",
+    "title": "Squat-Jump Serve Simulation",
+    "focus_metric": "knee_bend",
+    "tags": ["trophy", "leg_drive", "power", "knee_bend"],
+    "description": "Without a racket, toss the ball, squat to your trophy position knee angle (target 140°), then explode upward and try to tap the ball at the top of your jump. 3 sets of 8 reps. This isolates the leg-drive component of the serve and teaches you how much power a proper knee bend adds — the jump height difference is immediately noticeable."
+  },
+  {
+    "id": "knee_angle_check_video",
+    "title": "Trophy Knee Angle Video Check",
+    "focus_metric": "knee_bend",
+    "tags": ["trophy", "knee_bend", "self-analysis"],
+    "description": "Film your serve from the side at 240fps (slow-motion mode on iPhone). Pause at the trophy frame and visually confirm the angle behind your knee. A straight leg looks like a vertical post; a loaded leg has a clear V-shape behind the knee. Do this check every 2 weeks to track improvement. Awareness of what your actual angle looks like — versus what it feels like — is the fastest path to fixing it."
+  },
+  {
+    "id": "full_extension_shadow_swing",
+    "title": "Full-Extension Shadow Swing",
+    "focus_metric": "elbow_extension",
+    "tags": ["contact", "elbow_extension", "arm_extension"],
+    "description": "Stand under a doorframe or at a wall. Shadow-swing your serve and at the contact point try to touch the ceiling or wall with your fingertips fully extended. 3 sets of 15 reps. Grooves the 'reach up and through' sensation at contact so full extension becomes the default rather than a conscious effort."
+  },
+  {
+    "id": "wall_target_contact",
+    "title": "Wall Target Contact Drill",
+    "focus_metric": "elbow_extension",
+    "tags": ["contact", "elbow_extension", "accuracy"],
+    "description": "Stick a piece of tape on a wall at full-reach height (fingertips extended). Stand racket-length away and practice tapping the tape with your racket strings at the moment of simulated contact. 20 taps per set, 3 sets. Reinforces where your arm needs to be — and confirms full extension is already in your natural swing."
+  },
+  {
+    "id": "towel_backscratch_drill",
+    "title": "Towel Backscratch Drill",
+    "focus_metric": "drop_elbow_angle",
+    "tags": ["drop", "backscratch", "backswing", "wrist_layback"],
+    "description": "Hold a small towel in your racket hand and shadow-serve without a racket. The towel should hang down behind your back and brush your spine at the deepest point of the backscratch. 3 sets of 10 swings. The towel gives instant tactile feedback on how deep the racket drop is — if the towel doesn't touch your back, the swing is short."
+  },
+  {
+    "id": "mirror_backswing_check",
+    "title": "Mirror Backswing Check",
+    "focus_metric": "drop_elbow_angle",
+    "tags": ["drop", "backscratch", "backswing"],
+    "description": "Stand side-on to a full-length mirror. Shadow-serve slowly and freeze at the deepest point of the backscratch. Check that your elbow is high and pointing toward the sky and the racket tip points toward the ground. 5 freeze-checks per session. Visual confirmation of the drop position is the fastest way to deepen the backscratch without overfitting the feeling."
+  },
+  {
+    "id": "shelf_release_toss",
+    "title": "Shelf-Release Toss Drill",
+    "focus_metric": "toss_height_ratio",
+    "tags": ["toss", "consistency", "toss_height_ratio"],
+    "description": "Place the ball on your open palm as if resting it on a shelf — no fingers curled around it. Practise releasing the ball upward with just a smooth arm lift, no wrist flick. Aim to place the ball at consistent height each time. 30 tosses in a row without a racket. The shelf release eliminates the finger-flick variability that causes toss inconsistency."
+  },
+  {
+    "id": "fence_toss_consistency",
+    "title": "Fence Toss Consistency Drill",
+    "focus_metric": "toss_height_ratio",
+    "tags": ["toss", "consistency", "toss_height_ratio", "repeatability"],
+    "description": "Stand next to a fence or wall and toss the ball so it lands on a specific spot on the fence at your target contact height, then catches it on the way down. 20 consecutive tosses — track how many land on the spot. Trains the toss to be a reliable, repeatable motion rather than a new decision on every serve."
+  },
+  {
+    "id": "high_contact_target",
+    "title": "High-Contact Target Drill",
+    "focus_metric": "contact_height_ratio",
+    "tags": ["contact", "contact_height_ratio", "toss_placement"],
+    "description": "Hang a strip of tape or a ribbon from an overhead string at your full-reach contact height. Practise tossing and making contact specifically with that target. 3 sets of 10 serves. Keeps your toss placement dialled in so the ball is always at your natural maximum reach — where you're already making excellent contact."
+  },
+  {
+    "id": "jump_contact_drill",
+    "title": "Jump-and-Contact Drill",
+    "focus_metric": "contact_height_ratio",
+    "tags": ["contact", "contact_height_ratio", "leg_drive"],
+    "description": "Add a small upward jump at contact to your regular serve to reinforce reaching the highest possible contact point. Focus on timing the jump so you connect with the ball at the peak of both your jump and your arm extension. 2 sets of 8 serves. Bridges knee-loading (leg drive) directly into contact height — the two are connected."
+  },
+  {
+    "id": "serve_rhythm_counting",
+    "title": "Serve Rhythm Counting",
+    "focus_metric": "general",
+    "tags": ["rhythm", "timing", "general"],
+    "description": "Assign a count to each phase: '1' = start motion, '2' = trophy position (pause here), '3' = backscratch, '4' = contact. Shadow-serve out loud counting each beat. 3 sets of 10 reps. Rhythm counting forces you to actually hit each position rather than rushing through the motion, and reveals which phase you tend to skip."
+  },
+  {
+    "id": "serve_and_shadow",
+    "title": "Serve-and-Shadow",
+    "focus_metric": "general",
+    "tags": ["rhythm", "muscle_memory", "general"],
+    "description": "Hit one real serve, then immediately shadow-swing the same motion without a ball, focusing on the feel of correct technique. Alternate for 3 sets of 10 serves. The shadow rep after each real serve reinforces the correct movement while the feeling is fresh, building muscle memory faster than blocked repetition alone."
+  },
+  {
+    "id": "trophy_to_contact_slow",
+    "title": "Trophy-to-Contact Slow Swing",
+    "focus_metric": "general",
+    "tags": ["trophy", "contact", "full_motion", "general"],
+    "description": "Shadow-serve from trophy position to contact in 5 seconds — deliberately slow. Focus on the transition: legs driving up as the racket drops, then arm extending fully at contact. 4 sets of 8 reps. Isolates the most critical segment of the serve (trophy through contact) and trains each sub-phase sequentially rather than letting momentum carry you through."
+  }
+]

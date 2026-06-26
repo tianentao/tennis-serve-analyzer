@@ -1,0 +1,13 @@
+[project]
+name = "tennis-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "anthropic>=0.111.0",
+    "mcp>=1.28.0",
+    "mediapipe>=0.10.35",
+    "opencv-python>=4.13.0.92",
+    "sentence-transformers>=5.6.0",
+]

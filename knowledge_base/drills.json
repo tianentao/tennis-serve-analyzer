@@ -103,5 +103,89 @@
     "focus_metric": "general",
     "tags": ["trophy", "contact", "full_motion", "general"],
     "description": "Shadow-serve from trophy position to contact in 5 seconds — deliberately slow. Focus on the transition: legs driving up as the racket drops, then arm extending fully at contact. 4 sets of 8 reps. Isolates the most critical segment of the serve (trophy through contact) and trains each sub-phase sequentially rather than letting momentum carry you through."
+  },
+  {
+    "id": "shoulder_rotation_towel_swing",
+    "title": "Shoulder Rotation Towel Swing",
+    "focus_metric": "shoulder_rotation",
+    "tags": ["shoulder", "rotation", "power", "coil"],
+    "description": "Hold a towel with both hands at chest height and practise the shoulder turn of the serve: front shoulder points toward the net at the start, then rotates fully so the hitting shoulder drives forward at contact. 3 sets of 20 reps without a racket. Isolates the shoulder coil-and-uncoil that generates rotational power — if the shoulders stay square throughout, you're leaving pace on the serve."
+  },
+  {
+    "id": "side_on_stance_check",
+    "title": "Side-On Stance Check",
+    "focus_metric": "shoulder_rotation",
+    "tags": ["stance", "shoulder", "setup", "rotation"],
+    "description": "Before each serve in practice, pause and check your feet: the front foot should point toward the right net post (for right-handers), and your shoulders should be turned sideways to the net. Take 10 serves focusing only on this setup position. A side-on stance at the start maximises the shoulder rotation available on the way to contact — an open stance shortens the coil."
+  },
+  {
+    "id": "pronation_coin_drill",
+    "title": "Pronation Coin Drill",
+    "focus_metric": "wrist_pronation",
+    "tags": ["pronation", "wrist", "contact", "racket_speed"],
+    "description": "Hold a coin on the back of your hitting hand. As you swing through the contact zone, rotate your forearm so the coin falls off toward the ground on the follow-through side. 3 sets of 15 shadow swings. This exaggerates the forearm pronation (internal rotation) at contact that snaps the racket head through the ball and generates pace — without it the swing feels like a push rather than a whip."
+  },
+  {
+    "id": "wrist_snap_finger_flick",
+    "title": "Wrist Snap and Follow-Through",
+    "focus_metric": "wrist_pronation",
+    "tags": ["pronation", "wrist", "follow_through", "spin"],
+    "description": "Shadow-serve focusing on where the racket ends up after contact: the hitting arm should finish across your body, racket face down, on the opposite hip. If it finishes up in the air, pronation didn't fire. 3 sets of 10 shadow serves, checking the finish position each time. The follow-through position is a reliable readout of whether the wrist snap happened correctly at contact."
+  },
+  {
+    "id": "toss_placement_forward",
+    "title": "Toss Placement — Forward Into the Court",
+    "focus_metric": "toss_placement",
+    "tags": ["toss", "placement", "contact_point", "toss_height_ratio"],
+    "description": "Place a target (a ball can or towel) on the court one racket-length in front of your front foot. Toss the ball so it would land on that target if you didn't hit it. 20 tosses. A toss that lands behind the baseline forces the contact point back, reducing power and net clearance — a forward toss lets you lean into the ball and drive through it."
+  },
+  {
+    "id": "toss_arm_straightness",
+    "title": "Toss Arm Straightness Drill",
+    "focus_metric": "toss_height_ratio",
+    "tags": ["toss", "arm", "consistency", "toss_height_ratio"],
+    "description": "Practise the toss with your elbow fully locked straight throughout the entire lifting motion. A bent toss elbow introduces an extra variable that changes the release point and therefore the height. 30 tosses focusing only on keeping the arm rigid. A straight toss arm is one of the simplest ways to make height and placement more repeatable without changing anything else."
+  },
+  {
+    "id": "follow_through_finish_check",
+    "title": "Follow-Through Finish Position Check",
+    "focus_metric": "general",
+    "tags": ["follow_through", "general", "muscle_memory"],
+    "description": "After every serve in practice, freeze your finish position for one full second before moving. Check: racket across the body toward the non-dominant hip, hitting shoulder forward, weight on the front foot. 3 sets of 10 serves. The finish position reveals whether the swing path was correct — a serve that ends in the right place almost always had a correct contact too."
+  },
+  {
+    "id": "split_step_serve_flow",
+    "title": "Split-Step Into Serve Flow",
+    "focus_metric": "general",
+    "tags": ["footwork", "rhythm", "general", "timing"],
+    "description": "Before each practice serve, take one small split-step (a light two-footed hop) to get onto the balls of your feet, then flow directly into the serve motion. 3 sets of 10 serves. The split-step activates the lower body and creates a rhythm trigger at the start of the motion — players who serve flat-footed from a static stance often rush the backswing and arrive at trophy too early."
+  },
+  {
+    "id": "second_serve_spin_brush",
+    "title": "Second Serve Topspin Brush",
+    "focus_metric": "general",
+    "tags": ["second_serve", "spin", "topspin", "safety"],
+    "description": "Shadow the second serve swing path: the racket should brush up the back of the ball from 7 o'clock to 1 o'clock (imagining the ball face as a clock). 3 sets of 15 shadow swings, emphasising the upward brushing action rather than driving forward into the ball. A reliable topspin second serve comes from brushing up steeply — a flat swing on the second serve produces double faults under pressure."
+  },
+  {
+    "id": "target_serve_zones",
+    "title": "Target Zone Serving",
+    "focus_metric": "general",
+    "tags": ["accuracy", "placement", "general", "game_application"],
+    "description": "Place three targets (ball cans or cones) in the service box: wide, body, and T positions. Serve 5 balls at each target per set, 3 sets. Call your target out loud before each serve. Directional serving integrates all the technical work done in isolation into a purposeful, game-realistic skill — technique without placement is incomplete."
+  },
+  {
+    "id": "elbow_lead_backswing",
+    "title": "Elbow-Lead Backswing Drill",
+    "focus_metric": "drop_elbow_angle",
+    "tags": ["backswing", "drop", "elbow", "drop_elbow_angle"],
+    "description": "As you initiate the backswing, consciously lead with the elbow rather than the racket head — think 'elbow up first, racket falls after.' Shadow-serve 3 sets of 10, focusing on this sequencing. When the elbow leads, the racket drops naturally into a deep backscratch; when the racket leads, the elbow collapses early and the drop is shallow, costing whip speed at contact."
+  },
+  {
+    "id": "leg_drive_resistance_band",
+    "title": "Resistance Band Leg Drive",
+    "focus_metric": "knee_bend",
+    "tags": ["knee_bend", "leg_drive", "strength", "loading"],
+    "description": "Attach a light resistance band around both thighs just above the knees. Take your serve stance and practise the full trophy-to-contact motion against the band's resistance. 3 sets of 8 serves. The band forces you to push outward with the knees to maintain position, which activates the glutes and hip abductors that are often inactive in a straight-legged serve. Over time this builds the strength to maintain a loaded position comfortably."
   }
 ]

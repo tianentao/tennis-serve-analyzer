@@ -1,6 +1,0 @@
-gradio
-mediapipe
-opencv-python-headless
-anthropic
-sentence-transformers
-numpy
